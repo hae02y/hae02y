@@ -8,6 +8,8 @@ I'm a passionate on a journey to become a Developer who change the world!
 - 📚 I welcome opportunities to learn and grow together.
  
 </br>
+</br>
+
 
 ![hae02y's github stats](https://github-readme-stats.vercel.app/api?username=hae02y&show_icons=true)
 
