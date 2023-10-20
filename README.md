@@ -36,7 +36,7 @@ I'm a passionate on a journey to **become a Developer who change the world**!
 
 
 `My tech blog`
-<img src="https:https://togll.tistory.com/?style=flat-square&logo=blog&logoColor=white">
+<a link="https://togll.tistory.com/> <img src ="https://img.shields.io/badge/blog-hyemco_blog-pink?style=social"/> </a>
 
 
 
