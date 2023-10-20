@@ -36,7 +36,8 @@ I'm a passionate on a journey to **become a Developer who change the world**!
 
 
 `My tech blog`
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyejinwon.github.io/)](https://hyejinwon.github.io/)
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=blog&logoColor=white&link=https:https://togll.tistory.com/">
+
 
 
 
