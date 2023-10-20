@@ -37,7 +37,7 @@ I'm a passionate on a journey to **become a Developer who change the world**!
 
 `ETC`
 <p>
-<a href="https://togll.tistory.com/"> <img src ="https://img.shields.io/badge/blog-tech_blog-pink?style=social"/> </a>
+<a href="https://togll.tistory.com/"> <img src ="https://img.shields.io/badge/Go-tech_blog-pink?style=social"/> </a>
 </p>
 
 
