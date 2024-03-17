@@ -1,5 +1,6 @@
 
-안녕하세요. 주니어 백엔드 개발자 **정해영** 입니다!
+안녕하세요🙋‍♂️
+주니어 백엔드 개발자 **정해영** 입니다!
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - 🌱 I'm Learning **Web Backend**.
 - 💬 I'm always striving for **effective communication**.
