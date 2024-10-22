@@ -7,10 +7,10 @@
 - 💬 I'm always striving for **effective communication**.
 - 🚀 I'm **enthusiastic about all things development**.
 - 📚 I welcome opportunities to **learn and grow** together.
- 
-</br>
-</br>
+<img src="https://github.com/user-attachments/assets/3a0f6197-bb7f-4c83-9ed7-6e285c36d7ce" width="150"/>
 
+</br>
+</br>
 
 ![hae02y's github stats](https://github-readme-stats.vercel.app/api?username=hae02y&show_icons=true)
 
@@ -23,12 +23,13 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring_security-6DB33F?style=flat&logo=springboot&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
- <img src="https://img.shields.io/badge/React-4d4dff?style=flat-square&logo=react&logoColor=white"/>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 </p>
 
 `Frontend`
-
+<p> 
+ <img src="https://img.shields.io/badge/React-4d4dff?style=flat-square&logo=react&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+</p>
 
 `I study`
 <p>
