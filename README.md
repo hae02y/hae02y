@@ -7,7 +7,6 @@
 - 💬 I'm always striving for **effective communication**.
 - 🚀 I'm **enthusiastic about all things development**.
 - 📚 I welcome opportunities to **learn and grow** together.
-<img src="https://github.com/user-attachments/assets/3a0f6197-bb7f-4c83-9ed7-6e285c36d7ce" width="150"/>
 
 </br>
 </br>
