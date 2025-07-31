@@ -1,7 +1,5 @@
 
 안녕하세요🙋‍♂️ </br>
-
-주니어 웹개발자 **정해영** 입니다!
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - 🌱 I'm Learning **Web Backend**.
 - 💬 I'm always striving for **effective communication**.
