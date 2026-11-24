@@ -5,8 +5,3 @@
   </a>
 </p>
 <p align="center">Software Weaver, rooted in the backend, growing toward AI</p>
-
-
-```
-hi im hae02y.
-```
